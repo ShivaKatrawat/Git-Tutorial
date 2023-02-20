@@ -1,0 +1,5 @@
+create a user with a non-interactive shell
+sudo adduser user -s /sbin/nologin/
+
+frogs-and-ox.txt is not committed with right commit message. If you made a mistake run 'git reset --soft HEAD~1' command to revert the last change.
+
